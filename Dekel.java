@@ -4,7 +4,7 @@ public class Dekel
 	{
 		for (int i = 1; i <= 10; i++) 
 		{
-			System.out.println("Dekel" + i * 2);
+			System.out.println("Dekel Rafian, second print" + i * 2);
 		}
 	}
 }
